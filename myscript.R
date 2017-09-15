@@ -1,3 +1,5 @@
+###Software Carpentry Day 2 2017-09-15
+
 rm(list = ls())
 #a <- 4
 #print(a)
